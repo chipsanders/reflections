@@ -1,0 +1,56 @@
+	How did viewing a diff between two versions of a file help you see
+	the bug that was introduced?
+
+	Viewing the diff between two versions of a file
+	helped me see the bug that was introduced because
+	I could compare the lines of the file to each other
+	then if I was able to notice the differences, I 
+	could identify the bug.
+
+	How could having easy access to the entire history of
+	file make you a more efficient programmer in the long
+	term?
+
+	It could make a more efficient programmer because I 
+	could just make changes to my code and not worry
+	about saving the current version before I 
+	introduce a bug or crash the system.  It would 
+	also streamline my workflow.
+
+	What do you think are the pros and cons of manually 
+	choosing when to create a commit, like you do in Git, 
+	vs having versions automaticaly saved, like Google Docs 
+	does?
+
+	The pros are that you can choose when to commit so it
+	logically makes sense in your mind.  You can keep better
+	separation between logical commits.
+	The cons are that you can forget to make commits and 
+	this defeats the purpose of version control.  You could
+	also make commits at illogical points that would make it
+	more difficult to work with versions.
+
+	Why do you think some version control systems, like Git,
+	allow saving multiple files in one commit, while others,
+	like Google Docs, treat each file separately?
+
+	Because Git is for code, code often requires different
+	files to organize and separate functionality. The files 
+	work together to create the application. It is generally 
+	bad design to put all elements of an application in one
+	file.
+
+	How can you use the commands git log and gif diff to view
+	the history of files?
+
+	git log will return a list of all commits with a unique identifier associated with them. Git dif will compare the two files
+	and return a display of the differences between the two
+	files.
+
+	How might using version control make you more confident to 
+	make changes that could break something?
+
+	You will always know that if you break something you can go
+	back to the premvious commit that worked.
+
+	
