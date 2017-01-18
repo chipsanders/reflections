@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository you are adding the files and 
+code necessasry for git to work with that folder. You 
+need to do it so that git will work with the documents 
+within that folder.
+
+How is the staging area different from the working directory
+and the repository? What value to you think it offers?
+
+The staging area is different from the working directory and
+the repository in that it is an area that allows you to 
+do things before they become permanent.  The value it offers
+is the ability to do work without making permanent changes.
+
