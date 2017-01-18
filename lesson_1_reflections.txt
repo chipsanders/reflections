@@ -53,4 +53,8 @@
 	You will always know that if you break something you can go
 	back to the premvious commit that worked.
 
+	Now that you ahve your workspace set up, what do you want to try
+	using Git for?
+
+	I want to use Git for my visual basic .net applications
 	
