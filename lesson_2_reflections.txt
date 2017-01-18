@@ -13,3 +13,12 @@ the repository in that it is an area that allows you to
 do things before they become permanent.  The value it offers
 is the ability to do work without making permanent changes.
 
+How can you use the staging area to make sure you have one commit per 
+logical change?
+
+You can add all the files that are part of the logical change to the
+staging area before you commit. That way they will all be included in
+your commit. So when you compare them to previous or future changes
+you will see all the changes logically necessary to understand
+the change.
+
