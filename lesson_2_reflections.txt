@@ -26,5 +26,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 Branches would be helpful when you are happy with the existing master branch, but want to make changes, either as an experiment, or as a separate version of the program that will stand alone and not be merged with the master at a later date.
 
+How do the diagrams help you visualize the branch structure?
 
+The diagrams show a linear representation of the organization of the commit structure. You can see at a glance the various branches, heads, and commit and how they relate.
 
