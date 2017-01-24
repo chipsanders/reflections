@@ -47,3 +47,10 @@ the same. We represent it in the diagram to include a map of all the
 commits with each branch as well as the point the branch was created
 and the point the branch was merged. This contains a more detailed
 and useful graphical representation of what occured with the branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing 
+merges manually?
+
+Automatic merging save you time. Automatic merging cannot always merge all
+changes. So you have to merge conflicting changes manually. Always merging
+manually would take much more time.
