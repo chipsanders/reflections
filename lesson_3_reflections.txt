@@ -6,3 +6,13 @@ that has more than one person working on it.  Or it may be that
 you want to have access to the file from different computers or
 different locations and don't want to have to store the file 
 locally.
+
+Why might you want to always pull changes manually rather than 
+having Git automatically stay up-to-date with your remote 
+repository?
+
+You might want to manually pull changes rather than automating this
+because you have control over when changes are pulled. It might not
+make sense to pull changes from remote at certain points in your
+projects development. If the changes were pulled automatically, 
+this would likely cause more problems than it solved.
