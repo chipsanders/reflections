@@ -27,3 +27,11 @@ or from your local computer. A branch is a commit or commit history
 that is separate from the master branch, because it branched off
 from master at some point. A branch can exist either locally or 
 on git hub within a repository.
+
+What is the benefit of having a copy of the last known state of the
+remote stored locally?
+
+The benefit of having a copy of the last known state of the remote
+stored locally is that you can work offline.  Also you can know
+the state of the remote as you work and you don't need to be 
+connected to the remote repository to diff changes.
