@@ -35,3 +35,15 @@ The benefit of having a copy of the last known state of the remote
 stored locally is that you can work offline.  Also you can know
 the state of the remote as you work and you don't need to be 
 connected to the remote repository to diff changes.
+
+How would you collaborate without using Git or GitHub? What would
+be easier and what would be harder?
+
+You could use separate local copies of the files. It would be 
+harder to keep track of the changes each person made to the
+files and to merge the files. You could just use one copy of 
+the file and each person could have it open only one person
+at a time. This would slow down development. You could have 
+an environment that let people make changes to the same file.
+This would make it difficult to track changes as well as
+avoid conflicts.
