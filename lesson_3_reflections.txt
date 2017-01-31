@@ -47,3 +47,16 @@ at a time. This would slow down development. You could have
 an environment that let people make changes to the same file.
 This would make it difficult to track changes as well as
 avoid conflicts.
+
+When would you want to make changes in a separate branch 
+rather than directly in master? What benefits does each 
+approach have?
+
+If there is a reason to use a branch, such as to experiment
+with the code, to delegate specific funtionality to separate
+people, then it makes sense to make changes in branches 
+instead of directly in master. The beneifits of using branches
+is that you are able to logically separate out you code 
+development. The benefit of making all changes in master is 
+that it is easier to keep track of and keep all changes in 
+sync.
